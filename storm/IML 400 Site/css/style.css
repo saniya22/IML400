@@ -1,0 +1,303 @@
+/*Geometria Font*/
+
+@font-face {
+	font-family: 'Geometria';
+	url('../fonts/brownfox_-_geometria_light-webfont.eot');
+	url('../fonts/brownfox_-_geometria_light-webfont.ttf') format ('truetype'),
+	url('../fonts/brownfox_-_geometria_light-webfont.woff') format ('woff'),
+	url('../fonts/brownfox_-_geometria_light-webfont.woff2') format ('woff2'),
+	url('../fonts/brownfox_-_geometria_light-webfont.svg') format ('svg');
+	font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css?family=David+Libre|Oxygen');
+
+/*reset*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/*links*/
+
+a:link {
+	color: #fff;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #fff;
+}
+
+a:hover {
+	color: #CFFFDD;
+}
+
+a:active {
+	color: #fff;
+}
+
+/*landing page design*/
+
+#landingTitle {
+	display: block;
+	text-align: center;
+	font-size: 9em;
+	font-family: 'Geometria';
+    padding-top: 2%;
+    color: #CFFFDD; /*lightest green aka best*/
+}
+
+.subHead {
+	font-family: 'Cormorant Upright';
+	font-size: 1.5em;
+	text-align: center;
+	display: block;
+	color: #a85163;
+}
+
+.nav {
+	width: 80%;
+	height: 2em;
+	background-color: #a85163; /*bored red*/
+	margin: 0 auto 1em auto;
+	text-align: right;
+	font-family: 'Geometria';
+	padding-right: 3em;
+}
+
+.nav li {
+	display: inline-block;
+	text-transform: uppercase;
+	margin: 0.3em 0 0.2em 4em;
+}
+
+.sigColor {
+	background-color: #CFFFDD; /*best color EVER... for now*/
+	margin-top: 2em;
+	margin-left: 10%;
+	float: left;
+	height: 300px;
+	width: 300px;
+	color: #5c5863; /*mauvey brown*/
+	text-align: center;
+	font-family: 'Geometria';
+}
+
+.sigColor p {
+	padding: 45% 0;
+	word-wrap: break-word;
+}
+
+.topLeft, .topRight {
+	color: #b4dec1;
+	font-family: 'Geometria';
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 1.6em;
+	display: inline-block;
+	margin: 0.5em;
+}
+
+.topLeft {
+	float: left;
+}
+
+.topRight {
+	float: right;
+}
+
+/*turtle css*/
+
+.turtleContainer {
+	display: inline-block;
+	width: 300px;
+	height: 300px;
+	background-color: #1693a5;
+	float: right;
+	margin-top: 2em;
+	margin-right: 10%;
+	position: relative;
+}
+
+.turtleBody {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	background-color: #CFFFDD;
+	border-radius: 80% 0 55% 50%/ 55% 0 80% 50%;
+	-webkit-border-radius: 80% 0 55% 50%/ 55% 0 80% 50%;
+	border: 2px solid #7fff24;
+	-webkit-transform: rotate(90deg);
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+.turtleHead {
+	display: inline-block;
+	width: 60px;
+	height: 60px;
+	background-color: #CFFFDD;
+	border: 2px solid #7fff24;
+	border-radius: 80% 0 55% 50%/ 55% 0 80% 50%;
+	-webkit-border-radius: 80% 0 55% 50%/ 55% 0 80% 50%;
+	-webkit-transform: rotate(-90deg);
+	position: absolute;
+	margin-top: 45px;
+	margin-left: 45px;
+}
+
+.turtleHand {
+	display: inline-block;
+	width: 30px;
+	height: 45px;
+	background-color: #CFFFDD;
+	border: 2px solid #7fff24;
+	border-radius: 55% 50% 80% 0/80% 50% 80% 0;
+	-webkit-border-radius: 55% 50% 80% 0/80% 50% 80% 0;
+	-webkit-transform: rotate(35deg);
+	position: absolute;
+	top: 155px;
+	left: 30px;
+}
+
+.turtleHandTwo {
+	display: inline-block;
+	width: 30px;
+	height: 45px;
+	background-color: #CFFFDD;
+	border: 2px solid #7fff24;
+	border-radius: 50% 60% 0 80%/60% 75% 5% 60%;
+	-webkit-border-radius: 50% 60% 0 80%/60% 75% 5% 60%;
+	-webkit-transform: rotate(-125deg);
+	position: absolute;
+	top: 32px;
+	right: 85px;
+}
+
+.turtleFoot {
+	display: inline-block;
+	width: 30px;
+	height: 50px;
+	background-color: #CFFFDD;
+	border: 2px solid #7fff24;
+	border-radius: 50% 60% 0 90%/75% 70% 0 60%;
+	-webkit-border-radius: 50% 60% 0 90%/75% 70% 0 60%;
+	-webkit-transform: rotate(0deg);
+	position: absolute;
+	bottom: 20px;
+	left: 140px;
+}
+
+.turtleFootTwo {
+	display: inline-block;
+	width: 30px;
+	height: 50px;
+	background-color: #CFFFDD;
+	border: 2px solid #7fff24;
+	border-radius: 50% 60% 90% 0/75% 70% 60% 0;
+	-webkit-border-radius: 50% 60% 90% 0/75% 70% 60% 0;
+	-webkit-transform: rotate(-75deg);
+	position: absolute;
+	bottom: 110px;
+	right: 30px;
+}
+
+
+/*page elements*/
+
+.section {
+	width: 80%;
+	margin: 5em auto;
+	font-family: 'Geometria';
+	color: #5c5863;
+	font-style: normal;
+	border: 2px #CFFFDD solid;
+	padding: 1em;
+}
+
+.section h1 {
+	text-align: center;
+	font-weight: 100;
+	color: #a85163;
+	font-family: 'Cormorant Upright';
+}
+
+.text {
+	padding: 2em;
+	color: #5c5863;
+	font-family: 'David Libre';
+	font-size: 1.2em;
+	line-height: 150%;
+}
+
+/*about page*/
+
+.prompt {
+	padding: 2em;
+	color: #ff1f4c; /*blaring red*/
+	font-family: 'Exo 2';
+	font-size: 1.1em;
+	line-height: 140%;
+}
+
+#quiz {
+	font-size: 1.3em;
+	text-align: center;
+	padding: 1em 0;
+}
+
+#specialLink {
+	color: #5c5863;
+	text-decoration: underline;
+}
+
+.section img {
+	width: 90%;
+	height: auto;
+	margin-left: 5%;
+}
+
+/*Assignments page*/
+
+.assignment ul {
+	font-size: 1.1em;
+	list-style-type: square;
+	margin: 0.5em 1em;
+	color: #b4dec1;
+}
+
+.assignment ul li {
+	line-height: 200%;
+}
+
+#listLink {
+	color: #ff1f4c;
+	text-transform: uppercase;
+	font-family: 'Geometria';
+}
+
+a:hover#listLink{
+	color: #b4dec1;
+}
+
+.backButton {
+	font-size: 0.9em;
+}
+
+.assignmentTitle {
+	font-family: "Cormorant Upright";
+	font-size: 1.5em;
+	color: #a85163;
+	text-align: center;
+}
+
+.assignment p {
+	font-family: 'Geometria';
+	font-size: 1.1em;
+	color: #5c5863;
+	text-align: center;
+	margin: 1em auto;
+}
