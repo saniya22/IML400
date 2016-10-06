@@ -12,6 +12,17 @@
 
 @import url('https://fonts.googleapis.com/css?family=David+Libre|Oxygen');
 
+/* Color Palette */
+/*-----------------------------------------------------------------------------------------------------------------------*/
+
+/*  #373f52 Dark gray-blue
+	#242b42 Navy ish blue
+	#66adb3 Seafoam blue green
+	#Cfffdd Really light green also a badass signature color
+	#a2d6a1 Brighter green? 
+*/
+/*-----------------------------------------------------------------------------------------------------------------------*/
+
 /*reset*/
 
 * {
@@ -46,7 +57,7 @@ a:active {
 	font-size: 9em;
 	font-family: 'Geometria';
     padding-top: 2%;
-    color: #CFFFDD; /*lightest green aka best*/
+    color: #CFFFDD; 
 }
 
 .subHead {
@@ -54,13 +65,13 @@ a:active {
 	font-size: 1.5em;
 	text-align: center;
 	display: block;
-	color: #a85163;
+	color: #242b42;
 }
 
 .nav {
 	width: 80%;
 	height: 2em;
-	background-color: #a85163; /*bored red*/
+	background-color: #373f52; 
 	margin: 0 auto 1em auto;
 	text-align: right;
 	font-family: 'Geometria';
@@ -74,13 +85,13 @@ a:active {
 }
 
 .sigColor {
-	background-color: #CFFFDD; /*best color EVER... for now*/
+	background-color: #CFFFDD; 
 	margin-top: 2em;
 	margin-left: 10%;
 	float: left;
 	height: 300px;
 	width: 300px;
-	color: #5c5863; /*mauvey brown*/
+	color: #5c5863; 
 	text-align: center;
 	font-family: 'Geometria';
 }
@@ -91,7 +102,7 @@ a:active {
 }
 
 .topLeft, .topRight {
-	color: #b4dec1;
+	color: #66adb3;
 	font-family: 'Geometria';
 	text-transform: uppercase;
 	text-align: center;
@@ -108,18 +119,26 @@ a:active {
 	float: right;
 }
 
-/*turtle css*/
+/*animals css*/
+
+.classMateAnimal {
+	display: block;
+	position: relative;
+	left: 60%;
+	padding: 2.5% 1%;
+
+}
 
 /*turtle css*/
 
-#turtleContainer {
+#myturtleContainer {
 	display: inline-block;
 	width: 300px;
 	height: 300px;
 	background-color: transparent;
 	position: relative;
-	float: right;
-	margin-right: 200px;
+	margin: 5% auto;
+	left: 10%;
 }
 
 #saniyapo-Body{
@@ -238,22 +257,22 @@ a:active {
 	width: 80%;
 	margin: 5em auto;
 	font-family: 'Geometria';
-	color: #5c5863;
+	color: #242b42;
 	font-style: normal;
-	border: 2px #CFFFDD solid;
+	border: 2px #66adb3 solid;
 	padding: 1em;
 }
 
 .section h1 {
 	text-align: center;
 	font-weight: 100;
-	color: #a85163;
+	color: #a2d6a1;
 	font-family: 'Cormorant Upright';
 }
 
 .text {
 	padding: 2em;
-	color: #5c5863;
+	color: #242b42;
 	font-family: 'David Libre';
 	font-size: 1.2em;
 	line-height: 150%;
@@ -263,7 +282,7 @@ a:active {
 
 .prompt {
 	padding: 2em;
-	color: #ff1f4c; /*blaring red*/
+	color: #a2d6a1; 
 	font-family: 'Exo 2';
 	font-size: 1.1em;
 	line-height: 140%;
@@ -276,7 +295,7 @@ a:active {
 }
 
 #specialLink {
-	color: #5c5863;
+	color: #242b42;
 	text-decoration: underline;
 }
 
@@ -288,11 +307,30 @@ a:active {
 
 /*Assignments page*/
 
+
+.list li{
+	font-size: 1.1em;
+	font-family: 'David Libre';
+	list-style-type: square;
+	margin: 0.5em 1em;
+	color: #242b42;
+}
+
+.list {
+	display: inline-block;
+	width: 50%;
+	float: left;
+}
+
+#listSpacing li {
+	padding: 5em 0;
+}
+
 .assignment ul {
 	font-size: 1.1em;
 	list-style-type: square;
 	margin: 0.5em 1em;
-	color: #b4dec1;
+	color: #242b42;
 }
 
 .assignment ul li {
@@ -300,30 +338,33 @@ a:active {
 }
 
 #listLink {
-	color: #ff1f4c;
-	text-transform: uppercase;
+	color: #242b42;
+	
 	font-family: 'Geometria';
 }
 
 a:hover#listLink{
-	color: #b4dec1;
+	color: #a2d6a1;
 }
 
 .backButton {
 	font-size: 0.9em;
+	text-transform: uppercase;
 }
 
 .assignmentTitle {
 	font-family: "Cormorant Upright";
 	font-size: 1.5em;
-	color: #a85163;
+	color: #a2d6a1;
 	text-align: center;
 }
 
 .assignment p {
 	font-family: 'Geometria';
+	letter-spacing: 0.1em;
 	font-size: 1.1em;
-	color: #5c5863;
+	color: #66adb3;
 	text-align: center;
 	margin: 1em auto;
 }
+

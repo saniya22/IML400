@@ -1,0 +1,353 @@
+<!DOCTYPE html
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Week 4 | Saniya Pole</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="author" content ="Saniya Pole">
+		<meta name="description" content="Media Arts And Practice | USC">
+		<meta name="revised" content="9/1/2016">
+		<link href="https://fonts.googleapis.com/css?family=Cormorant+Upright|David+Libre|Exo+2:300" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/totemStyle.css">
+
+	</head>
+	<body>
+		<div class="topLeft">
+			<p>Saniya</p>
+			<p>Pole</p>
+		</div>
+		<div class="topRight">
+			<p>IML 400</p>
+		</div>
+		<div class="nav">
+			<ul>
+				<li>
+					<a href="index.html"> Home </a>
+				</li>
+				<li>
+					<a href="about.html">About</a>
+				</li>
+				<li>
+					<a href="assignments.html">Assignments</a>
+				</li>
+			</ul>
+		</div>
+		<div class="section">
+			<div class="assignment">
+				<div class="backButton"><a href="assignments.html" id="listLink">< Back to Assignments</a></div>
+				<br>
+				<h1>Week 4: Spirit Animal Functions</h1>
+				<br>
+				<p>My Functions<p>
+				<ul class="list">
+					<li>Function 1: Changes turtle's eye color</li>
+					<li>Function 2: Changes turtle's head, arms and legs color</li>
+					<li>Function 3: Changes the border width and color for the entire turtle, and its limbs (Note that the orginally the border is white, so it wouldn't be readily seen.</li>
+				</ul>
+				<br>
+				<div id="myturtleContainer">
+					<div id="saniyapo-Head">
+						<div id="saniyapo-Eye_L"></div>
+						<div id="saniyapo-Eye_R"></div>
+					</div>
+					<div id="saniyapo-Hand_L"></div>
+					<div id="saniyapo-Hand_R"></div>
+					<div id="saniyapo-Foot_L"></div>
+					<div id="saniyapo-Foot_R"></div>
+					<div id="saniyapo-Body"></div>
+				</div>
+				<br>
+				<p>Customizing classmate's spirit animals</p>
+				<br><br>
+				<ul class="list" id ="listSpacing">
+				<li>Rachel's Tiger</li>
+				<li>Mark's Turtle</li>
+				<li>Max's Deer</li>
+				</ul>
+				<div class="classMateAnimal">	
+					<div class="yedamkim-shape">
+						<div id="yedamkim-rightear"></div>
+						<div id="yedamkim-leftear"></div>
+						<div id="yedamkim-leftcheek"></div>
+						<div id="yedamkim-rightcheek"></div>
+						<div id="yedamkim-triangle-down"></div>
+						<div id="yedamkim-mouth"></div>
+						<div id="yedamkim-nose"></div>
+						<div id="yedamkim-nose2"></div>
+						<div id="yedamkim-whiteeyebrows"></div>
+						<div id="yedamkim-whiteeyebrows2"></div>
+						<div id="yedamkim-trapezoid"></div>
+						<div id="yedamkim-leftear2"></div>
+						<div id="yedamkim-leftear3"></div>
+						<div id="yedamkim-rightear2"></div>
+						<div id="yedamkim-rightear3"></div>
+						<div id="yedamkim-lefteye"></div>
+						<div id="yedamkim-righteye"></div>
+						<div id="yedamkim-stripes"></div>
+						<div id="yedamkim-stripes2"></div>
+					</div> <!--YedamKim Tiger-->
+				</div>
+				<div class="classMateAnimal">
+					<div id="cage">
+					    <div id="neck"></div>
+					    <div id="head"></div>
+					    <div class="eye" id="eyeL"></div>
+					    <div class="eye" id="eyeR"></div>
+					    <div class="leg1" id="frontR"></div>
+					    <div class="leg2" id="frontL"></div>
+					    <div class="leg2" id="backR"></div>
+					    <div class="leg1" id="backL"></div>
+					    <div id="shell"></div>
+					    <div id="shellInner"></div>
+					    <div id="pattern">
+					      <div id="hex1"><div class="hexagon"></div></div>
+					      <div id="hex2"><div class="hexagon"></div></div>
+					      <div id="hex3"><div class="hexagon"></div></div>
+					      <div id="hex4"><div class="hexagon"></div></div>
+					      <div id="hex5"><div class="hexagon"></div></div>
+					      <div id="hex6"><div class="hexagon"></div></div>
+					      <div id="hex7"><div class="hexagon"></div></div>
+					    </div>  
+	  				</div><!--Mvrahas Turtle-->
+	  			</div>
+	  			<div class="classMateAnimal">
+	  				<div id="deer">
+						<div id="naseck-head"></div>
+						<div id="naseck-nose"></div>
+						<div id="naseck-eye-L"></div>
+						<div id="naseck-eye-R"></div>
+						<div id="naseck-pupil-L"></div>
+						<div id="naseck-pupil-R"></div>
+						<div id="naseck-ear-R"></div>
+						<div id="naseck-ear-L"></div>
+						<div id="naseck-earinside-R"></div>
+						<div id="naseck-earinside-L"></div>
+					</div><!--Naseck Deer-->
+				</div>
+			</div>
+		</div>
+
+		<script type="text/javascript">
+		
+		console.log('Can you see this?')
+
+			// FIRST FUNCTION 
+			//Changing the eye color of the turtle
+
+		function saniyapoChangeTurtle_1(eyeColor) {
+
+ 			var $Eye_L = document.getElementById("saniyapo-Eye_L")
+ 			var $Eye_R = document.getElementById("saniyapo-Eye_R")
+
+			$Eye_L.style.backgroundColor= eyeColor
+			$Eye_R.style.backgroundColor= eyeColor
+
+		}
+
+		// Run this function and change the color to the one you want
+		//saniyapoChangeTurtle_1("rgb(255,31,76)")
+
+		//SECOND FUNCTION
+		//Changing color of the turtle's head, arms and legs
+
+		function saniyapoChangeTurtle_2(limbsColor) {
+
+			var $Hand_L = document.getElementById("saniyapo-Hand_L")
+			var $Hand_R = document.getElementById("saniyapo-Hand_R")
+			var $Foot_L = document.getElementById("saniyapo-Foot_L")
+			var $Foot_R = document.getElementById("saniyapo-Foot_R")
+			var $Head = document.getElementById("saniyapo-Head")
+			
+			$Hand_L.style.backgroundColor = limbsColor
+			$Hand_R.style.backgroundColor = limbsColor
+			$Foot_L.style.backgroundColor = limbsColor
+			$Foot_R.style.backgroundColor = limbsColor
+			$Head.style.backgroundColor = limbsColor
+		}
+
+		// Run this to change limbs
+		//saniyapoChangeTurtle_2("rgb(200,217,243)")
+
+		//THIRD FUNCTION
+		//Changing the border width AND color for the whole turtle and each of its limbs
+		//Note that the original border color is white, so it will not be visible unless you change the container bg color or put it on top of your totem that is colored differently
+
+		function saniyapoChangeTurtle_3(myBorderWidth, myBorderColor) {
+
+			var $Hand_L = document.getElementById("saniyapo-Hand_L")
+			var $Hand_R = document.getElementById("saniyapo-Hand_R")
+			var $Foot_L = document.getElementById("saniyapo-Foot_L")
+			var $Foot_R = document.getElementById("saniyapo-Foot_R")
+			var $Head = document.getElementById("saniyapo-Head")
+			var $Body = document.getElementById("saniyapo-Body")
+
+			$Hand_L.style.borderWidth =myBorderWidth
+			$Hand_L.style.borderColor =myBorderColor
+
+			$Hand_R.style.borderWidth =myBorderWidth
+			$Hand_R.style.borderColor =myBorderColor
+
+			$Foot_L.style.borderWidth =myBorderWidth
+			$Foot_L.style.borderColor =myBorderColor
+
+			$Foot_R.style.borderWidth =myBorderWidth
+			$Foot_R.style.borderColor =myBorderColor
+
+			$Head.style.borderWidth =myBorderWidth
+			$Head.style.borderColor =myBorderColor
+
+			$Body.style.borderWidth =myBorderWidth
+			$Body.style.borderColor =myBorderColor
+
+		}
+
+		//Run this to change the border width and color. The first number is representing border width in pixels
+		//The second represents the color, you can use RGB values or a hexcode or just a name
+		//saniyapoChangeTurtle_3("5", "black")
+		</script>
+			<script text = "text/javascript">
+
+		//RACHEL's TIGER CUSTOMIZATION 
+
+    /*This function changes the tiger's stripe colors */
+
+				function yedamkim_ChangeAnimal_1(){
+
+				var $topStripe = document.getElementById("yedamkim-stripes")
+				var $bottomStripe = document.getElementById("yedamkim-stripes2")
+
+
+	$topStripe.style.backgroundColor = "white" /*change the color here! Delete black and add your own*/
+	$bottomStripe.style.backgroundColor = "white" /*change the color here! Delete black and add your own*/
+
+	}
+	
+	yedamkim_ChangeAnimal_1() 
+
+
+	/*This function gives my tiger a nose job*/
+
+				function yedamkim_ChangeAnimal_2(shift){
+
+				var $nose = document.getElementById("yedamkim-nose")
+				var $nose2 = document.getElementById("yedamkim-nose2")
+				
+				console.log($nose)
+			      $nose.style.transform = 'translateY('+shift+'px)'; 
+			      $nose2.style.transform = 'translateY('+shift+'px)'; 
+
+	}
+	
+	/*yedamkim_ChangeAnimal_2(1) */ /*UNCOMMENT THE FUNCTION TO MAKE IT WORK. change your number thats inside the parenthesis! negative goes up, positive goes down.*/
+
+
+
+
+
+	/* This function adds a mustache to my tiger*/
+
+				function yedamkim_ChangeAnimal_3(){
+
+				var $mouth = document.getElementById("yedamkim-mouth")
+
+	$mouth.style.backgroundColor = "white" /*change the color here!*/
+
+	}
+	
+	yedamkim_ChangeAnimal_3()  
+	/*uncomment this function to see it work.*/
+
+	// MAX'S DEER CUSTOMIZATION
+
+	function naseckEyeColor_1( myColor ) {
+
+      	var $pupil_L = document.getElementById( "naseck-pupil-L" )
+      	var $pupil_R = document.getElementById( "naseck-pupil-R" )  
+      
+      	$pupil_L.style.backgroundColor = myColor
+      	$pupil_R.style.backgroundColor = myColor
+    }
+
+    naseckEyeColor_1("rgb(255,246,0)")
+
+      function naseckChangeEar_1( myHeight, myInsideHeight) {
+
+      	
+      	var $earinside_L = document.getElementById( "naseck-earinside-L" )
+      	var $earinside_R = document.getElementById( "naseck-earinside-R" )
+      	var $ear_L = document.getElementById( "naseck-ear-L" )
+      	var $ear_R = document.getElementById( "naseck-ear-R" ) 
+
+      	$ear_L.style.height = myHeight
+      	$ear_R.style.height = myHeight
+
+      	$earinside_L.style.height = myInsideHeight
+      	$earinside_R.style.height = myInsideHeight  
+
+      	//naseckChangeEar_1("40px", "20px")	
+    }
+
+    
+    function naseckEvilEye_1( myAngle ) {  
+
+      	var $pupil_L = document.getElementById( "naseck-pupil-L" )
+      	var $pupil_R = document.getElementById( "naseck-pupil-R" )
+      	var $eye_L = document.getElementById( "naseck-eye-L" )
+      	var $eye_R = document.getElementById( "naseck-eye-R" )    
+      
+    
+
+      	$pupil_L.style.transform = myAngle
+      	$pupil_R.style.transform = myAngle
+      	$eye_L.style.transform = myAngle
+      	$eye_R.style.transform = myAngle
+
+      	naseckEvilEye_1("rotate(70deg)")
+    }
+
+    // MVRAHAS TURTLE CUSTOMIZATION
+
+    /*This function changes the outer border of the shell to a color of your choice*/
+
+    mvrahasChangeAnimal_1("#CFFFDD")
+    
+    function mvrahasChangeAnimal_1(hue) {
+      var $shell = document.getElementById("shell")
+      $shell.style.backgroundColor = hue
+    }
+    /*This function changes the hexogons on the shell to a color of your choice */
+
+    mvrahasChangeAnimal_2("#CFFFDD")
+    
+
+    function mvrahasChangeAnimal_2(hue) {
+      var $hexagon = document.getElementsByClassName("hexagon")
+      console.log($hexagon.length)
+      for(i=0 ; i<$hexagon.length ; i++){
+      $hexagon[i].style.backgroundColor = hue
+      $hexagon[i].style.color = hue
+    }
+    
+
+    }
+
+    /*This function makes the turtle scared, and his head goes into his shell as far as you want.
+
+    mvrahasChangeAnimal_3(10)
+    */
+
+    function mvrahasChangeAnimal_3(shift){
+      var $eyeL = document.getElementById("eyeL")
+      var $eyeR = document.getElementById("eyeR")
+      var $neck = document.getElementById("neck")
+      var $head = document.getElementById("head")
+      console.log($eyeL)
+      $eyeL.style.transform = 'translateY('+shift+'px)'; 
+      $eyeR.style.transform = 'translateY('+shift+'px)';
+      $neck.style.transform = 'translateY('+shift+'px)';
+      $head.style.transform = 'translateY('+shift+'px) rotate(90deg)';
+    } 
+	</script>
+
+	</body>
