@@ -9,8 +9,8 @@
 
 .totemBackground {
 	width: 300px;
-	height: 2300px; /*Increase as more animals are added*/
- 	background: transparent; 
+	height: 2200px; /*Increase as more animals are added*/
+ 	background: #d3d3d3; 
  	margin: 0 auto;
  	border-radius: 30%;
 } 
@@ -19,7 +19,7 @@
 	display: block;
 	padding: 5px 50px;
 	margin-left: -50px;
-	background: 
+	background: transparent;
 
 }
 

@@ -30,6 +30,10 @@
 	padding: 0;
 }
 
+body {
+	height: auto;
+	min-height: 100%;
+}
 /*links*/
 
 a:link {
@@ -86,9 +90,7 @@ a:active {
 
 .sigColor {
 	background-color: #CFFFDD; 
-	margin-top: 2em;
-	margin-left: 10%;
-	float: left;
+	margin: 2em auto;
 	height: 300px;
 	width: 300px;
 	color: #5c5863; 
@@ -254,7 +256,10 @@ a:active {
 /*page elements*/
 
 .section {
+	position: relative;
 	width: 80%;
+	height: auto;
+	overflow: auto;
 	margin: 5em auto;
 	font-family: 'Geometria';
 	color: #242b42;
@@ -270,12 +275,37 @@ a:active {
 	font-family: 'Cormorant Upright';
 }
 
+.section h3 {
+	text-align: center;
+	color: #242b42;
+	font-family: 'Geometria';
+	text-transform: uppercase;
+	font-size: 1em;
+	letter-spacing: 0.1em;
+	padding-top: 0.3em;
+}
+
 .text {
 	padding: 2em;
 	color: #242b42;
 	font-family: 'David Libre';
 	font-size: 1.2em;
 	line-height: 150%;
+}
+
+.textLeft {
+	display: inline-block;
+	width: 50%;
+	position: absolute;
+	left: 0;
+	
+}
+
+.textRight {
+	display: inline-block;
+	width: 50%;
+	position: absolute;
+	left: 50%;
 }
 
 /*about page*/
@@ -368,3 +398,32 @@ a:hover#listLink{
 	margin: 1em auto;
 }
 
+#pokeApiButton {
+	display: inline-block;
+	position: absolute;
+	right: 5em;
+	width: 10em;
+	height: 10em;
+	background-color: #66adb3;
+	border: 2px solid #Cfffdd;
+	color: #242b42;
+	text-transform: uppercase;
+	cursor: pointer;
+	padding: 1em;
+}
+
+#pokeApi {
+	display: block;
+	margin-top: 15em;
+	width: 100%;
+	height: auto;
+	overflow: auto;
+}
+
+#pokeApi img {
+	width: 20%;
+	height: auto;
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+}
