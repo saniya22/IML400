@@ -1,0 +1,109 @@
+<!DOCTYPE html
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Week 7 | Saniya Pole</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="author" content ="Saniya Pole">
+		<meta name="description" content="Media Arts And Practice | USC">
+		<meta name="revised" content="9/1/2016">
+		<link href="https://fonts.googleapis.com/css?family=Cormorant+Upright|David+Libre|Exo+2:300" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		
+		<!-- The scripts specifc to the Spotify data parsing example -->
+		<link rel="stylesheet" href="css/lib/w3.css">    
+    	<script src="js/lib/jquery-3.1.1.min.js"></script>   
+    	<script src="js/lib/lodash.js"> </script>
+    	<script src="js/lib/w3data.js"></script>
+    	<script src="data/test-playlist-search-short.js"></script>
+
+	</head>
+	<body>
+		<div class="topLeft">
+			<p>Saniya</p>
+			<p>Pole</p>
+		</div>
+		<div class="topRight">
+			<p>IML 400</p>
+		</div>
+		<div class="nav">
+			<ul>
+				<li>
+					<a href="index.html"> Home </a>
+				</li>
+				<li>
+					<a href="about.html">About</a>
+				</li>
+				<li>
+					<a href="assignments.html">Assignments</a>
+				</li>
+			</ul>
+		</div>
+		<div class="section">
+			<div class="assignment">
+				<div class="backButton"><a href="assignments.html" id="listLink"> < Back to Assignments</a>
+				</div>
+				<br>
+				<h1>Week 7: Parsing Data Demo (Spotify) </h1>
+				<br>
+				<div class="text"> <a href="poleExampleW3Data.html" id="specialLink">Link to W3 Data building demo using the spotify API</a> 
+				<br><br>
+				Feeling confident, and succumbing to the OCD of wanting everything in the same format for my class website, I ended up with these three playlists that 
+				<ul class ="points">
+					<li>Show ONLY those playlists with more than 500 tracks </li>
+					<li>Show the User who created the playlist, with a link to their profile</li>
+					<li>Show the image thumbnail ...or whatever the smallest image provided is</li>
+				</ul>
+				<br>
+				</div>
+				<div id="myDataDisplay">
+        			<section class="w3-panel w3-teal w3-section w3-padding-tiny" w3-repeat="items">
+           				<img src="{{thumbnail}}" class="w3-left w3-padding-medium">
+            			<h3 class="w3-text-white w3-middle">{{name}}</h3>
+            			<br>
+            			<span class="w3-small w3-text-lime">{{trackCount}}</span>
+            			<div class="w3-medium w3-right w3-text-sand w3-padding-medium">
+                <span>{{userName}}</span>
+                <a href="{{userLink}}">(User Profile)</a>
+            			</div>
+        			</section>
+    			</div>
+			</div>
+		</div>
+
+	<script type="text/javascript">
+
+	var $consoleDiv = $("#myConsole");
+	//getting the dependent functions
+
+    function show(myStr) {
+            $consoleDiv.append(myStr);
+        }
+
+	//getting the variable ducks in order
+
+	var playlists = serverResponse.playlists.items;
+        
+	var playlistObjects = [];  // empty array
+        
+        function makeMeAW3DataObject( someObject ) {
+            var aTempObject = { "name": someObject.name, "trackCount": someObject.tracks.total, "userName" : someObject.owner.id, "userLink" : someObject.owner.external_urls.spotify, "thumbnail" : someObject.images[someObject.images.length -1].url};
+            
+            if (someObject.tracks.total > 500) {
+            playlistObjects.push( aTempObject );    
+            }
+        }
+                
+        _.each(playlists, makeMeAW3DataObject);
+        
+        //storing the array in an object and displaying it in the div
+        
+        var w3Object = { items: playlistObjects };
+        $("#myDataDisplay").show();
+        
+        w3DisplayData("myDataDisplay",w3Object);
+        
+        
+        $("#myDataDisplay").append("<hr/><h2>Success!</h2>");
+	</script>
+</body>

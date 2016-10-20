@@ -259,7 +259,7 @@ a:active {
 	position: relative;
 	width: 80%;
 	height: auto;
-	overflow: auto;
+	overflow: hidden;
 	margin: 5em auto;
 	font-family: 'Geometria';
 	color: #242b42;
@@ -272,6 +272,13 @@ a:active {
 	text-align: center;
 	font-weight: 100;
 	color: #a2d6a1;
+	font-family: 'Cormorant Upright';
+}
+
+.section h2 {
+	text-align: left;
+	font-weight: 100;
+	color: #242b42;
 	font-family: 'Cormorant Upright';
 }
 
@@ -357,7 +364,7 @@ a:active {
 }
 
 .assignment ul {
-	font-size: 1.1em;
+	font-size: 1em;
 	list-style-type: square;
 	margin: 0.5em 1em;
 	color: #242b42;
@@ -394,8 +401,8 @@ a:hover#listLink{
 	letter-spacing: 0.1em;
 	font-size: 1.1em;
 	color: #66adb3;
-	text-align: center;
-	margin: 1em auto;
+	text-align: left;
+	margin: 1em ;
 }
 
 #pokeApiButton {
@@ -403,9 +410,8 @@ a:hover#listLink{
 	position: absolute;
 	right: 5em;
 	width: 10em;
-	height: 10em;
-	background-color: #66adb3;
-	border: 2px solid #Cfffdd;
+	height: 5em;
+	background-color: #cfffdd;
 	color: #242b42;
 	text-transform: uppercase;
 	cursor: pointer;
@@ -426,4 +432,41 @@ a:hover#listLink{
 	margin: 0 auto;
 	text-align: center;
 	display: block;
+}
+
+#myDataDisplay {
+	width: 80%;
+	padding: 2em;
+}
+
+#myDataDisplay img {
+	width: auto;
+	height: auto;
+}
+
+#result {
+	width: 60%;
+	padding: 2em;
+}
+
+#result img {
+	width: auto;
+	height: auto;
+}
+
+.points {
+	font-size: 1em;
+}
+
+#spotifyApiButton {
+	display: inline-block;
+	position: absolute;
+	left: 5em;
+	width: 10em;
+	height: 5em;
+	background-color: #cfffdd;
+	color: #242b42;
+	text-transform: uppercase;
+	cursor: pointer;
+	padding: 1em;
 }

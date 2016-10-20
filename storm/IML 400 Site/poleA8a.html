@@ -1,0 +1,122 @@
+<!DOCTYPE html
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Week 8a | Saniya Pole</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content ="Saniya Pole">
+        <meta name="description" content="Media Arts And Practice | USC">
+        <meta name="revised" content="9/1/2016">
+        <link href="https://fonts.googleapis.com/css?family=Cormorant+Upright|David+Libre|Exo+2:300" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        
+        <!-- The scripts specifc to the Spotify data parsing example -->
+        <link rel="stylesheet" href="css/lib/w3.css">    
+        <script src="js/lib/jquery-3.1.1.min.js"></script>   
+        <script src="js/lib/lodash.js"> </script>
+        <script src="js/lib/w3data.js"></script>
+
+    </head>
+
+<body>
+
+    <div class="topLeft">
+            <p>Saniya</p>
+            <p>Pole</p>
+    </div>
+    <div class="topRight">
+        <p>IML 400</p>
+    </div>
+    <div class="nav">
+            <ul>
+                <li>
+                    <a href="index.html"> Home </a>
+                </li>
+                <li>
+                    <a href="about.html">About</a>
+                </li>
+                <li>
+                    <a href="assignments.html">Assignments</a>
+                </li>
+            </ul>
+    </div>
+    <div class="section">
+        <div class="assignment">
+            <div class="backButton"><a href="poleA8.html" id="listLink"> < Back to Assignment 8</a>
+            </div>
+            <br>
+            <h1>Live Spotify API Challenge 1</h1>
+            <br>
+            <p>This Data is from a live query of the Spotify API</p>
+            <div id="result">
+                <div w3-repeat ="stuff" class ="w3-panel w3-teal w3-padding-tiny"> 
+                    <img src="{{thumbnail}}" class="w3-left w3-padding-medium">
+                    <h3 class="w3-text-white w3-middle">{{name}}</h3>
+                    <h3 class="w3-small w3-text-lime">{{pop}}</h3>
+                    <div class="w3-medium w3-right w3-text-sand w3-padding-medium">
+                        <span>{{followers}}</span>
+                    </div>      
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+
+        
+        var url = "https://api.spotify.com/v1/search?";
+        
+        var param = {q: "Muse", type: "artist"}
+        var result;
+        
+        
+        function getMeTheArtistData( obj ) {
+            //to avoid getting an initial image error
+            var thumbnail = "images/noImg.jpg";
+            //to filter so only objects with images are shown
+            if(_.has (obj, "images") && obj.images.length >0){
+                thumbnail = obj.images[obj.images.length -1].url;
+                
+            } 
+            return {id: obj.id, name: obj.name, pop: obj.popularity, thumbnail: thumbnail, followers: obj.followers.total};
+        }        
+        
+        
+        //this only gets called if jQuery gets data back from Spotify
+        
+        function onReceivedData(data) {
+                console.log('got a result')
+                result = data 
+                           
+                //this is the call that goes through all of the result items
+                // and converts it into a list of objects that w3Data can use
+                var w3ObjectList = _.map( result.artists.items, getMeTheArtistData  )
+
+                // as an example here I am filtering the data to only return 
+                // objects with a popularity above a threshold
+                var filteredPopular = _.filter( w3ObjectList,   function(obj) {  
+                   return obj.pop >= 0;
+                    })
+
+                var w3Data = {stuff: filteredPopular}
+                
+                //Pass it to w3 to display
+                w3DisplayData("result", w3Data);            
+        }
+        
+        
+        //this only gets called if jQuery does NOT get data back from Spotify
+        
+        function onFailedData(err) {
+            console.log('ERROR getting a result');
+            console.log(err);            
+        }
+        
+        
+        //make a request to spotify and then call the right function
+        // depending on what spotify returns
+        
+        $.get(url,param).done(onReceivedData).fail(onFailedData);
+
+    </script>
+</body>
+</html>
