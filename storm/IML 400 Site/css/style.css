@@ -470,3 +470,8 @@ a:hover#listLink{
 	cursor: pointer;
 	padding: 1em;
 }
+
+.saQ img {
+	width: 50%;
+	height: auto;
+}
