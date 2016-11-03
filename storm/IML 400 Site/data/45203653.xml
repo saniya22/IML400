@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[fwIiamkJXC8psgVUOFHZaA]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  <reviews start="1" end="20" total="20">
+    <review>
+  <id>1800449512</id>
+    <book>
+  <id type="integer">11054622</id>
+  <isbn>0470944889</isbn>
+  <isbn13>9780470944882</isbn13>
+  <text_reviews_count type="integer">35</text_reviews_count>
+  <title>Visualize This: The FlowingData Guide to Design, Visualization, and Statistics</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11054622-visualize-this</link>
+  <num_pages>358</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>John Wiley &amp; Sons</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>802</ratings_count>
+  <description>&lt;b&gt;Practical data design tips from a data visualization expert of the modern age&lt;/b&gt; Data doesn't decrease; it is ever-increasing and can be overwhelming to organize in a way that makes sense to its intended audience. Wouldn't it be wonderful if we could actually visualize data in such a way that we could maximize its potential and tell a story in a clear, concise manner? Thanks to the creative genius of Nathan Yau, we can. With this full-color book, data visualization guru and author Nathan Yau uses step-by-step tutorials to show you how to visualize and tell stories with data. He explains how to gather, parse, and format data and then design high quality graphics that help you explore and present patterns, outliers, and relationships.&lt;br&gt;&lt;br&gt;&lt;br&gt;Presents a unique approach to visualizing and telling stories with data, from a data visualization expert and the creator of flowingdata.com, Nathan Yau Offers step-by-step tutorials and practical design tips for creating statistical graphics, geographical maps, and information design to find meaning in the numbers Details tools that can be used to visualize data-native graphics for the Web, such as ActionScript, Flash libraries, PHP, and JavaScript and tools to design graphics for print, such as R and Illustrator Contains numerous examples and descriptions of patterns and outliers and explains how to show them Visualize This demonstrates how to explain data visually so that you can present your information in a way that is easy to understand and appealing.</description>
+<authors>
+<author>
+<id>4776766</id>
+<name>Nathan Yau</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4776766.Nathan_Yau]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>1066</ratings_count>
+<text_reviews_count>62</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465294396" sortable="false" />
+    <shelf name="physical-books-i-own" exclusive="false" review_shelf_id="1463452831" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Nov 01 17:18:01 -0700 2016</date_added>
+  <date_updated>Thu Nov 03 14:02:10 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1800449512]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1800449512]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1800449285</id>
+    <book>
+  <id type="integer">24611649</id>
+  <isbn>0143126466</isbn>
+  <isbn13>9780143126461</isbn13>
+  <text_reviews_count type="integer">96</text_reviews_count>
+  <title>The Art of Language Invention: From Horse-Lords to Dark Elves, the Words Behind World-Building</title>
+  <image_url>https://images.gr-assets.com/books/1430758353m/24611649.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1430758353s/24611649.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24611649-the-art-of-language-invention</link>
+  <num_pages>292</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Books</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.04</average_rating>
+  <ratings_count>381</ratings_count>
+  <description>&lt;b&gt;An insider’s tour through the construction of invented languages from the bestselling author and creator of languages for the HBO series &lt;i&gt;Game of Thrones&lt;/i&gt; and the Syfy series &lt;i&gt;Defiance&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;/b&gt;From master language creator David J. Peterson comes a creative guide to language construction for sci-fi and fantasy fans, writers, game creators, and language lovers. Peterson offers a captivating overview of language creation, covering its history from Tolkien’s creations and Klingon to today’s thriving global community of conlangers. He provides the essential tools necessary for inventing and evolving new languages, using examples from a variety of languages including his own creations, punctuated with references to everything from &lt;i&gt;Star Wars&lt;/i&gt; to Michael Jackson. Along the way, behind-the-scenes stories lift the curtain on how he built languages like Dothraki for HBO’s &lt;i&gt;Game of Thrones&lt;/i&gt; and Shiväisith for Marvel’s &lt;i&gt;Thor: The Dark World&lt;/i&gt;, and an included phrasebook will start fans speaking Peterson’s constructed languages. &lt;i&gt;The Art of Language Invention &lt;/i&gt;is an inside look at a fascinating culture and an engaging entry into a flourishing art form—and it might be the most fun you’ll ever have with linguistics.</description>
+<authors>
+<author>
+<id>508612</id>
+<name>David J. Peterson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430511743p5/508612.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430511743p2/508612.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/508612.David_J_Peterson]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>451</ratings_count>
+<text_reviews_count>117</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465294555" sortable="false" />
+    <shelf name="physical-books-i-own" exclusive="false" review_shelf_id="1463452589" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Nov 01 17:17:48 -0700 2016</date_added>
+  <date_updated>Thu Nov 03 13:59:06 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1800449285]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1800449285]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1800446059</id>
+    <book>
+  <id type="integer">9093391</id>
+  <isbn>0307589102</isbn>
+  <isbn13>9780307589101</isbn13>
+  <text_reviews_count type="integer">35</text_reviews_count>
+  <title>The Sorcerers and Their Apprentices: How the Digital Magicians of the MIT Media Lab Are Creating the Innovative Technologies That Will Transform Our Lives</title>
+  <image_url>https://images.gr-assets.com/books/1320519170m/9093391.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1320519170s/9093391.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9093391-the-sorcerers-and-their-apprentices</link>
+  <num_pages>254</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Crown Business</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>192</ratings_count>
+  <description>If you've ever read a book on an e-reader, unleashed your inner rock star playing Guitar Hero, built a robot with LEGO Mindstorms, or ridden in a vehicle with child-safe air bags, then you've experienced first hand just a few of the astounding innovations that have come out of the Media Lab over the past 25 years. But that’s old hat for today’s researchers, who are creating technologies that will have a much deeper impact on the quality of people’s lives over the next quarter century.  &lt;br&gt; &lt;br&gt;In this exhilarating tour of the Media Lab's inner sanctums, we'll meet the professors and their students - the Sorcerers and their Apprentices - and witness first hand the creative magic behind inventions such as: &lt;br&gt; &lt;br&gt;* &lt;i&gt;Nexi&lt;/i&gt;, a mobile humanoid robot with such sophisticated social skills she can serve as a helpful and understanding companion for the sick and elderly. &lt;br&gt;* &lt;i&gt;CityCar&lt;/i&gt;, a foldable, stackable, electric vehicle of the future that will redefine personal transportation in cities and revolutionize urban life. &lt;br&gt;* &lt;i&gt;Sixth Sense&lt;/i&gt;, a compact wearable device that transforms any surface – wall, tabletop or even your hand - into a touch screen computer.&lt;br&gt;*&lt;i&gt; PowerFoot, &lt;/i&gt;a lifelike robotic prosthesis that enables amputees to walk as naturally as if it were a real biological limb. &lt;br&gt; &lt;br&gt;Through inspiring stories of people who are using Media Lab innovations to confront personal challenges - like a man with cerebral palsy who is unable to hum a tune or pick up an instrument yet is using an ingenious music composition system to unleash his “inner Mozart”, and a woman with a rare life-threatening condition who co-invented a revolutionary web service that enables patients to participate in the search for their own cures - we’ll see how the Media Lab is empowering us all with the tools to take control of our health, wealth, and happiness.  &lt;br&gt; &lt;br&gt;Along the way, Moss reveals the highly unorthodox approach to creativity and invention that makes all this possible, explaining how the Media Lab cultivates an open and boundary-less environment where researchers from a broad array of disciplines – from musicians to neuroscientists to visual artists to computer engineers - have the freedom to follow their passions and take bold risks unthinkable elsewhere. &lt;br&gt; &lt;br&gt;The Sorcerers and Their Apprentices can serve as a blueprint for how to fix our broken innovation ecosystem and bring about the kind of radical change required to meet the challenges of the 21st century.  It is a must-read for anyone striving to be more innovative as an individual, as a businessperson, or as a member of society. &lt;br&gt;&lt;br&gt;Also includes 16 pages of color photos highlighting some of the lab's most visually stunning inventions - and the people who make them possible. &lt;br&gt; </description>
+<authors>
+<author>
+<id>796730</id>
+<name>Frank Moss</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/796730.Frank_Moss]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>231</ratings_count>
+<text_reviews_count>46</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465295636" sortable="false" />
+    <shelf name="physical-books-i-own" exclusive="false" review_shelf_id="1463449456" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Nov 01 17:14:32 -0700 2016</date_added>
+  <date_updated>Thu Nov 03 14:00:18 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1800446059]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1800446059]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1800333964</id>
+    <book>
+  <id type="integer">27237576</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">64</text_reviews_count>
+  <title>The Last Librarian: An AOI Thriller (The Justar Journal Book 1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27237576-the-last-librarian</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.83</average_rating>
+  <ratings_count>350</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>6912759</id>
+<name>Brandt Legg</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386805470p5/6912759.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386805470p2/6912759.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6912759.Brandt_Legg]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>4616</ratings_count>
+<text_reviews_count>624</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465296020" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Nov 01 00:00:00 -0700 2016</read_at>
+  <date_added>Tue Nov 01 15:12:25 -0700 2016</date_added>
+  <date_updated>Thu Nov 03 14:01:18 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1800333964]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1800333964]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1800333163</id>
+    <book>
+  <id type="integer">16165367</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">166</text_reviews_count>
+  <title>Brain on Fire: My Month of Madness</title>
+  <image_url>https://images.gr-assets.com/books/1353614530m/16165367.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1353614530s/16165367.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16165367-brain-on-fire</link>
+  <num_pages>290</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Free Press</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.98</average_rating>
+  <ratings_count>87646</ratings_count>
+  <description>An award-winning memoir and instant &lt;i&gt;New York Times&lt;/i&gt; bestseller that goes far beyond its riveting medical mystery, &lt;i&gt;Brain on Fire&lt;/i&gt; is the powerful account of one woman’s struggle to recapture her identity.&lt;br&gt;&lt;br&gt;When twenty-four-year-old Susannah Cahalan woke up alone in a hospital room, strapped to her bed and unable to move or speak, she had no memory of how she’d gotten there. Days earlier, she had been on the threshold of a new, adult life: at the beginning of her first serious relationship and a promising career at a major New York newspaper. Now she was labeled violent, psychotic, a flight risk. What happened?&lt;br&gt;&lt;br&gt;In a swift and breathtaking narrative, Cahalan tells the astonishing true story of her descent into madness, her family’s inspiring faith in her, and the lifesaving diagnosis that nearly didn’t happen.</description>
+<authors>
+<author>
+<id>5778057</id>
+<name>Susannah Cahalan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353287968p5/5778057.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353287968p2/5778057.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5778057.Susannah_Cahalan]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>87646</ratings_count>
+<text_reviews_count>7494</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465294671" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Oct 31 00:00:00 -0700 2016</read_at>
+  <date_added>Tue Nov 01 15:11:33 -0700 2016</date_added>
+  <date_updated>Thu Nov 03 13:59:11 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1800333163]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1800333163]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1791332209</id>
+    <book>
+  <id type="integer">17410555</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">83</text_reviews_count>
+  <title>Lexicon</title>
+  <image_url>https://images.gr-assets.com/books/1361651532m/17410555.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361651532s/17410555.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17410555-lexicon</link>
+  <num_pages>400</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>The Penguin Press</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>21922</ratings_count>
+  <description>At an exclusive school somewhere outside of Arlington, Virginia, students aren’t taught history, geography, or mathematics—at least not in the usual ways. Instead, they are taught to persuade. Here the art of coercion has been raised to a science .Students harness the hidden power of language to manipulate the mind and learn to break down individuals by psychographic markers in order to take control of their thoughts. The very best will graduate as “poets”: adept wielders of languagewho belong to a nameless organization that is as influential as it is secretive.&lt;br&gt;&lt;br&gt;Whip-smart orphan Emily Ruff is making a living running a three-card Monte game on the streets of San Francisco when she attracts the attention of the organization’s recruiters. She is flown across the country for the school’s strange and rigorous entrance exams, where, once admitted, she will be taught the fundamentals of persuasion by Brontë, Eliot, and Lowell—who have adopted the names of famous poets to conceal their true identities. For in the organization, nothing is more dangerous than revealing who you are: Poets must never expose their feelings lest they be manipulated. Emily becomes the school’s most talented prodigy until she makes a catastrophic mistake: She falls in love.&lt;br&gt;&lt;br&gt;Meanwhile, a seemingly innocent man named Wil Jamieson is brutally ambushed by two strange men in an airport bathroom. Although he has no recollection of anything they claim he’s done, it turns out Wil is the key to a secret war between rival factions of poets and is quickly caught in their increasingly deadly crossfire. Pursued relentlessly by people with powers he can barely comprehend and protected by the very man who first attacked him, Wil discovers that everything he thought he knew about his past was fiction. In order to survive, must journey to the toxically decimated tow nof Broken Hill, Australia, to discover who he is and why an entire town was blown off the map.&lt;br&gt;&lt;br&gt;As the two narratives converge, the shocking work of the poets is fully revealed, the body count rises, and the world crashes toward a Tower of Babel event which would leave all language meaningless. Max Barry’s most spellbinding and ambitious novel yet, Lexicon is a brilliant thriller that explores language, power, identity, and our capacity to love—whatever the cost.</description>
+<authors>
+<author>
+<id>18741</id>
+<name>Max Barry</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1310004110p5/18741.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1310004110p2/18741.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18741.Max_Barry]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>45743</ratings_count>
+<text_reviews_count>5400</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465295088" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Oct 22 11:55:23 -0700 2016</read_at>
+  <date_added>Sat Oct 22 11:54:44 -0700 2016</date_added>
+  <date_updated>Thu Nov 03 13:59:38 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1791332209]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1791332209]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1756901652</id>
+    <book>
+  <id type="integer">11393898</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">192</text_reviews_count>
+  <title>A Stolen Life</title>
+  <image_url>https://images.gr-assets.com/books/1327993983m/11393898.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327993983s/11393898.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11393898-a-stolen-life</link>
+  <num_pages>268</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.88</average_rating>
+  <ratings_count>75440</ratings_count>
+  <description>On 10 June 1991, eleven-year-old Jaycee Dugard was abducted from a school bus stop within sight of her home in Tahoe, California. It was the last her family and friends saw of her for over eighteen years. On 26 August 2009, Dugard, her daughters, and Phillip Craig Garrido appeared in the office of her kidnapper's parole officer in California. Their unusual behaviour sparked an investigation that led to the positive identification of Jaycee Lee Dugard, living in a tent behind Garrido's home. During her time in captivity, at the age of fourteen and seventeen, she gave birth to two daughters, both fathered by Garrido. &lt;br&gt;&lt;br&gt;Dugard's memoir is written by the 30-year-old herself and covers the period from the time of her abduction in 1991 up until the present. In her stark, utterly honest and unflinching narrative, Jaycee opens up about what she experienced, including how she feels now, a year after being found. Garrido and his wife Nancy have since pleaded guilty to their crimes.</description>
+<authors>
+<author>
+<id>4842866</id>
+<name>Jaycee Dugard</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1310687979p5/4842866.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1310687979p2/4842866.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4842866.Jaycee_Dugard]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>76428</ratings_count>
+<text_reviews_count>6766</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465294295" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Sep 13 00:00:00 -0700 2016</read_at>
+  <date_added>Tue Sep 13 09:31:46 -0700 2016</date_added>
+  <date_updated>Thu Nov 03 13:58:44 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1756901652]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1756901652]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1644286370</id>
+    <book>
+  <id type="integer">166562</id>
+  <isbn>074349282X</isbn>
+  <isbn13>9780743492829</isbn13>
+  <text_reviews_count type="integer">1232</text_reviews_count>
+  <title>Between a Rock and a Hard Place</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/166562.Between_a_Rock_and_a_Hard_Place</link>
+  <num_pages>368</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Atria Books</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>16372</ratings_count>
+  <description>The International Bestseller &lt;i&gt;Between a Rock and a Hard Place&lt;/i&gt; -- Now the Major Motion Picture &lt;i&gt;127 Hours&lt;/i&gt;.&lt;br&gt;&lt;br&gt;Hiking into the remote Utah canyonlands, Aron Ralston felt perfectly at home in the beauty of the natural world. Then, at 2:41 P.M., eight miles from his truck, in a deep and narrow slot canyon, an eight-hundred-pound boulder tumbled loose, pinning Aron's right hand and wrist against the canyon wall. Through six days of hell, with scant water, food, or warm clothing, and the terrible knowledge that no one knew where he was, Aron eliminated his escape option one by one. Then a moment of stark clarity helped him to solve the riddle of the boulder--and commit one of the most extreme and desperate acts imaginable.&lt;br&gt;&lt;br&gt;Honest, inspiring, and undeniably astonishing, &lt;i&gt;127 Hours: Between a Rock and a Hard Place&lt;/i&gt; has taken its place in the annals of classic adventure stories.</description>
+<authors>
+<author>
+<id>96899</id>
+<name>Aron Ralston</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1289597310p5/96899.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1289597310p2/96899.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/96899.Aron_Ralston]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>16432</ratings_count>
+<text_reviews_count>1607</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="physical-books-i-own" exclusive="false" review_shelf_id="1315538642" sortable="false" />
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465294211" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri May 20 21:51:44 -0700 2016</date_added>
+  <date_updated>Thu Nov 03 13:58:38 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1644286370]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1644286370]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1637313745</id>
+    <book>
+  <id type="integer">29981261</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2901</text_reviews_count>
+  <title>The Butterfly Garden</title>
+  <image_url>https://images.gr-assets.com/books/1461392121m/29981261.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1461392121s/29981261.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29981261-the-butterfly-garden</link>
+  <num_pages>288</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Thomas &amp; Mercer</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>30942</ratings_count>
+  <description>Near an isolated mansion lies a beautiful garden.&lt;br&gt;&lt;br&gt;In this garden grow luscious flowers, shady trees…and a collection of precious “butterflies”—young women who have been kidnapped and intricately tattooed to resemble their namesakes. Overseeing it all is the Gardener, a brutal, twisted man obsessed with capturing and preserving his lovely specimens.&lt;br&gt;&lt;br&gt;When the garden is discovered, a survivor is brought in for questioning. FBI agents Victor Hanoverian and Brandon Eddison are tasked with piecing together one of the most stomach-churning cases of their careers. But the girl, known only as Maya, proves to be a puzzle herself.&lt;br&gt;&lt;br&gt;As her story twists and turns, slowly shedding light on life in the Butterfly Garden, Maya reveals old grudges, new saviors, and horrific tales of a man who’d go to any length to hold beauty captive. But the more she shares, the more the agents have to wonder what she’s still hiding...</description>
+<authors>
+<author>
+<id>5805694</id>
+<name>Dot Hutchison</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1372279933p5/5805694.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1372279933p2/5805694.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5805694.Dot_Hutchison]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>31285</ratings_count>
+<text_reviews_count>3129</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465289173" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri May 13 00:00:00 -0700 2016</read_at>
+  <date_added>Fri May 13 17:03:47 -0700 2016</date_added>
+  <date_updated>Thu Nov 03 13:52:46 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1637313745]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1637313745]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1631204519</id>
+    <book>
+  <id type="integer">17188931</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">42</text_reviews_count>
+  <title>Becoming Human (Exilon 5, #1)</title>
+  <image_url>https://images.gr-assets.com/books/1356800870m/17188931.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1356800870s/17188931.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17188931-becoming-human</link>
+  <num_pages>358</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information>1st edition</edition_information>
+  <publisher></publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.55</average_rating>
+  <ratings_count>1089</ratings_count>
+  <description>&lt;b&gt;
+  &lt;i&gt;Two worlds. Two species. One terrifying secret.&lt;/i&gt;
+&lt;/b&gt;&lt;br&gt;&lt;br&gt;In 2163, a polluted and overcrowded Earth forces humans to search for a new home. But the exoplanet they target, Exilon 5, is occupied. &lt;br&gt;&lt;br&gt;Having already begun a massive relocation programme, the World Government on Earth sends Bill Taggart to monitor the threat level of the Indigenes, the alien race that lives on Exilon 5. Bill is a man on the edge. He believes the Indigenes killed his wife, but he doesn’t know why. Until now. &lt;br&gt;&lt;br&gt;Stephen has every reason to despise the humans and their attempts to colonise his planet. To protect his species from further harm, he must go against his very nature and become human. &lt;br&gt;&lt;br&gt;Laura O’Halloran is losing her daily battle with Seasonal Affective Disorder. Her only chance at recovery is leaving the dark Earth for the sunnier climate of Exilon 5. She hopes her credentials as a World Government employee will secure her a one-way trip, but with the ever increasing relocation demand that is not a guarantee.&lt;br&gt;&lt;br&gt;Her discovery of a deadly secret threatens her life and that of Bill and Stephen. A secret so great it could rip apart both worlds.</description>
+<authors>
+<author>
+<id>6859728</id>
+<name>Eliza Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1462981270p5/6859728.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1462981270p2/6859728.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6859728.Eliza_Green]]></link>
+<average_rating>3.65</average_rating>
+<ratings_count>1528</ratings_count>
+<text_reviews_count>237</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465289064" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri May 06 00:00:00 -0700 2016</read_at>
+  <date_added>Fri May 06 21:04:20 -0700 2016</date_added>
+  <date_updated>Thu Nov 03 13:52:38 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1631204519]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1631204519]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1621414382</id>
+    <book>
+  <id type="integer">18046624</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">665</text_reviews_count>
+  <title>Red Rising (Red Rising Trilogy, #1)</title>
+  <image_url>https://images.gr-assets.com/books/1370662170m/18046624.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1370662170s/18046624.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18046624-red-rising</link>
+  <num_pages>400</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Del Rey</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>93815</ratings_count>
+  <description>The Earth is dying. Darrow is a Red, a miner in the interior of Mars. His mission is to extract enough precious elements to one day tame the surface of the planet and allow humans to live on it. The Reds are humanity's last hope.&lt;br&gt;&lt;br&gt;Or so it appears, until the day Darrow discovers it's all a lie. That Mars has been habitable - and inhabited - for generations, by a class of people calling themselves the Golds. A class of people who look down on Darrow and his fellows as slave labour, to be exploited and worked to death without a second thought.&lt;br&gt;&lt;br&gt;Until the day that Darrow, with the help of a mysterious group of rebels, disguises himself as a Gold and infiltrates their command school, intent on taking down his oppressors from the inside. But the command school is a battlefield - and Darrow isn't the only student with an agenda.</description>
+<authors>
+<author>
+<id>6474348</id>
+<name>Pierce Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417558860p5/6474348.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417558860p2/6474348.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6474348.Pierce_Brown]]></link>
+<average_rating>4.36</average_rating>
+<ratings_count>186618</ratings_count>
+<text_reviews_count>22903</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465288913" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Apr 24 00:00:00 -0700 2016</read_at>
+  <date_added>Tue Apr 26 12:08:30 -0700 2016</date_added>
+  <date_updated>Thu Nov 03 13:52:24 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1621414382]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1621414382]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1603690681</id>
+    <book>
+  <id type="integer">22638080</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">132</text_reviews_count>
+  <title>Elon Musk: Inventing the Future</title>
+  <image_url>https://images.gr-assets.com/books/1404411464m/22638080.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1404411464s/22638080.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22638080-elon-musk</link>
+  <num_pages>400</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Ecco </publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.21</average_rating>
+  <ratings_count>46160</ratings_count>
+  <description>In the spirit of Steve Jobs and Moneyball, Elon Musk is both an illuminating and authorized look at the extraordinary life of one of Silicon Valley’s most exciting, unpredictable, and ambitious entrepreneurs, Elon Musk—a real-life Tony Stark—and a fascinating exploration of the renewal of American invention and its new “makers”&lt;br&gt;&lt;br&gt;Elon Musk spotlights the technology and vision of Elon Musk, the renowned entrepreneur and innovator behind SpaceX, Tesla, and SolarCity, who sold one of his internet companies, PayPal, for $1.5 billion. Ashlee Vance captures the full spectacle and arc of the genius’s life and work, from his tumultuous upbringing in South Africa and flight to the United States to his dramatic technical innovations and entrepreneurial pursuits.&lt;br&gt;&lt;br&gt;Vance uses Musk’s story to explore one of the pressing questions of our age: can the nation of inventors and creators who led the modern world for a century still compete in an age of fierce global competition? He argues that Musk—one of the most unusual and striking figures in American business history—is a contemporary, visionary amalgam of legendary inventors and industrialists including Thomas Edison, Henry Ford, Howard Hughes, and Steve Jobs. More than any other entrepreneur today, Musk has dedicated his energies and his own vast fortune to inventing a future that is as rich and far-reaching as the visionaries of the golden age of science-fiction fantasy.&lt;br&gt;&lt;br&gt;Thorough and insightful, Elon Musk brings to life a technology industry that is rapidly and dramatically changing by examining the life of one of its most powerful and influential titans.</description>
+<authors>
+<author>
+<id>761595</id>
+<name>Ashlee Vance</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/761595.Ashlee_Vance]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>46254</ratings_count>
+<text_reviews_count>2732</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465288862" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Apr 05 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Apr 07 14:51:02 -0700 2016</date_added>
+  <date_updated>Thu Nov 03 13:52:20 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1603690681]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1603690681]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1578142102</id>
+    <book>
+  <id type="integer">20878022</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">132</text_reviews_count>
+  <title>Captive Prince (Captive Prince, #1)</title>
+  <image_url>https://images.gr-assets.com/books/1439363653m/20878022.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1439363653s/20878022.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/20878022-captive-prince</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information>3rd edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>21637</ratings_count>
+  <description>Damen is a warrior hero to his people, and the rightful heir to the throne of Akielos, but when his half brother seizes power, Damen is captured, stripped of his identity, and sent to serve the prince of an enemy nation as a pleasure slave.&lt;br&gt;&lt;br&gt; Beautiful, manipulative and deadly, his new master Prince Laurent epitomizes the worst of the court at Vere. But in the lethal political web of the Veretian court, nothing is as it seems, and when Damen finds himself caught up in a play for the throne, he must work together with Laurent to survive and save his country.&lt;br&gt;&lt;br&gt; For Damen, there is just one rule: never, ever reveal his true identity. Because the one man Damen needs is the one man who has more reason to hate him than anyone else . . . &lt;br&gt;</description>
+<authors>
+<author>
+<id>4349837</id>
+<name>C.S. Pacat</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1425185129p5/4349837.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1425185129p2/4349837.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4349837.C_S_Pacat]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>50775</ratings_count>
+<text_reviews_count>7745</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465289499" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 10 00:00:00 -0800 2016</read_at>
+  <date_added>Sun Mar 13 03:24:02 -0700 2016</date_added>
+  <date_updated>Thu Nov 03 13:53:07 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1578142102]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1578142102]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1501408075</id>
+    <book>
+  <id type="integer">25852041</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">146</text_reviews_count>
+  <title>Aarushi</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25852041-aarushi</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.94</average_rating>
+  <ratings_count>1222</ratings_count>
+  <description>The murders that gripped the nation&lt;br&gt;Seven years ago a teenage girl, Aarushi Talwar, was found murdered in her bedroom in Noida, a middle-class suburb of Delhi. The body of the prime suspect—the family servant, Hemraj—was discovered a day later. Who had committed the double murders, and why? Within weeks, Aarushi’s parents, the Talwars, were accused; four years later, they went on trial and were convicted. &lt;br&gt;But did they do it?&lt;br&gt;Avirook Sen attended the trial, accessed important documents and interviewed all the players—from Aarushi’s friends to Hemraj’s old boss, from the investigators to the forensic scientists—to write a meticulous and chilling book that reads like a thriller but also tells a story that is horrifyingly true. Aarushi is the definitive account of a sensational crime, and the investigation and trial that followed.</description>
+<authors>
+<author>
+<id>4459183</id>
+<name>Avirook Sen</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4459183.Avirook_Sen]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>1235</ratings_count>
+<text_reviews_count>168</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465289230" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Jan 08 12:27:08 -0800 2016</read_at>
+  <date_added>Fri Jan 08 12:27:07 -0800 2016</date_added>
+  <date_updated>Thu Nov 03 13:52:50 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1501408075]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1501408075]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1382557523</id>
+    <book>
+  <id type="integer">20509356</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1144</text_reviews_count>
+  <title>Sand Omnibus (Sand, #1-5)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/20509356-sand-omnibus</link>
+  <num_pages>336</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>16237</ratings_count>
+  <description>&lt;b&gt;The new novel from the international bestselling author of the Wool trilogy.&lt;/b&gt;&lt;br&gt;&lt;br&gt;The old world is buried. A new one has been forged atop the shifting dunes. Here in this land of howling wind and infernal sand, four siblings find themselves scattered and lost.&lt;br&gt;&lt;br&gt;Palmer has never been the same since his father walked out twelve years ago. His elder sister, Vic, is trying to run away from the past; his younger brothers, Connor and Rob, are risking their lives to embrace it. His mother, left with nothing but anger, is just trying to forget.&lt;br&gt;&lt;br&gt;Palmer wants to prove his worth, not only to his family, but to himself. And in the barren, dune-covered landscape of his home, there is only one way to earn respect: sand-diving. Plunging deep below the desert floor in search of relics and scraps of the old world. He is about to embark on the most dangerous dive of his young life, aiming to become the first to discover the rumoured city below.&lt;br&gt;&lt;br&gt;Deep within the sand lies the key to bringing his family together – and tearing their world apart.</description>
+<authors>
+<author>
+<id>3064305</id>
+<name>Hugh Howey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1327581631p5/3064305.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1327581631p2/3064305.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3064305.Hugh_Howey]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>405241</ratings_count>
+<text_reviews_count>31119</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465286084" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Sep 04 23:40:05 -0700 2015</read_at>
+  <date_added>Thu Sep 03 23:38:24 -0700 2015</date_added>
+  <date_updated>Thu Nov 03 13:49:17 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1382557523]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1382557523]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1382557447</id>
+    <book>
+  <id type="integer">18401393</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3111</text_reviews_count>
+  <title>The Martian</title>
+  <image_url>https://images.gr-assets.com/books/1377968571m/18401393.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1377968571s/18401393.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18401393-the-martian</link>
+  <num_pages>385</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Crown</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.39</average_rating>
+  <ratings_count>439573</ratings_count>
+  <description>&lt;i&gt;Note: Alternate-Cover Edition for this ASIN can be found &lt;a href="https://www.goodreads.com/book/show/26833431-the-martian"&gt;here&lt;/a&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. &lt;br&gt;&lt;br&gt;Now, he's sure he'll be the first person to die there.&lt;br&gt;&lt;br&gt;After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive—and even if he could get word out, his supplies would be gone long before a rescue could arrive. &lt;br&gt;&lt;br&gt;Chances are, though, he won't have time to starve to death. The damaged machinery, unforgiving environment, or plain-old "human error" are much more likely to kill him first. &lt;br&gt;&lt;br&gt;But Mark isn't ready to give up yet. Drawing on his ingenuity, his engineering skills—and a relentless, dogged refusal to quit—he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him?</description>
+<authors>
+<author>
+<id>6540057</id>
+<name>Andy Weir</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1382592903p5/6540057.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1382592903p2/6540057.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6540057.Andy_Weir]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>452220</ratings_count>
+<text_reviews_count>58813</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465286030" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Sep 01 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Sep 03 23:38:09 -0700 2015</date_added>
+  <date_updated>Thu Nov 03 13:49:13 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1382557447]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1382557447]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1339697713</id>
+    <book>
+  <id type="integer">6558383</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">46</text_reviews_count>
+  <title>Running with Scissors</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6558383-running-with-scissors</link>
+  <num_pages>319</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>St. Martin's Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.69</average_rating>
+  <ratings_count>292133</ratings_count>
+  <description>Running with Scissors is the true story of a boy whose mother (a poet with delusions of Anne Sexton) gave him away to be raised by her unorthodox psychiatrist who bore a striking resemblance to Santa Claus. At the age of twelve, Burroughs found himself amidst Victorian squalor, living with the doctor's bizarre family, and befriending a pedophile who resided in the backyard shed. The story of an outlaw childhood where rules were unheard of, and the Christmas tree stayed up all year-round, where Valium was consumed like candy, and if things got dull, an electroshock therapy machine could provide entertainment. The funny, harrowing, and bestselling account of an ordinary boy’s survival under the most extraordinary circumstances.</description>
+<authors>
+<author>
+<id>3058</id>
+<name>Augusten Burroughs</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1459810857p5/3058.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1459810857p2/3058.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3058.Augusten_Burroughs]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>505967</ratings_count>
+<text_reviews_count>22571</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465283718" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jul 19 16:00:40 -0700 2015</date_added>
+  <date_updated>Thu Nov 03 13:46:19 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1339697713]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1339697713]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1339693698</id>
+    <book>
+  <id type="integer">8045789</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">886</text_reviews_count>
+  <title>Ender's Game (Ender's Saga, #1)</title>
+  <image_url>https://images.gr-assets.com/books/1452898522m/8045789.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1452898522s/8045789.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8045789-ender-s-game</link>
+  <num_pages>226</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Tor Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>802513</ratings_count>
+  <description>Andrew "Ender" Wiggin thinks he is playing computer simulated war games; he is, in fact, engaged in something far more desperate. The result of genetic experimentation, Ender may be the military genius Earth desperately needs in a war against an alien enemy seeking to destroy all human life. The only way to find out is to throw Ender into ever harsher training, to chip away and find the diamond inside, or destroy him utterly. Ender Wiggin is six years old when it begins. He will grow up fast.&lt;br&gt;&lt;br&gt;But Ender is not the only result of the experiment. The war with the Buggers has been raging for a hundred years, and the quest for the perfect general has been underway almost as long. Ender's two older siblings, Peter and Valentine, are every bit as unusual as he is, but in very different ways. While Peter was too uncontrollably violent, Valentine very nearly lacks the capability for violence altogether. Neither was found suitable for the military's purpose. But they are driven by their jealousy of Ender, and by their inbred drive for power. Peter seeks to control the political process, to become a ruler. Valentine's abilities turn more toward the subtle control of the beliefs of commoner and elite alike, through powerfully convincing essays. Hiding their youth and identities behind the anonymity of the computer networks, these two begin working together to shape the destiny of Earth-an Earth that has no future at all if their brother Ender fails.&lt;br&gt;&lt;br&gt;~from author's web site</description>
+<authors>
+<author>
+<id>589</id>
+<name>Orson Scott Card</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1294099952p5/589.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1294099952p2/589.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/589.Orson_Scott_Card]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>1996346</ratings_count>
+<text_reviews_count>86643</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465284208" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jul 19 15:55:35 -0700 2015</date_added>
+  <date_updated>Thu Nov 03 13:46:58 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1339693698]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1339693698]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1339691457</id>
+    <book>
+  <id type="integer">6586540</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">192</text_reviews_count>
+  <title>Uglies (Uglies, #1)</title>
+  <image_url>https://images.gr-assets.com/books/1328050794m/6586540.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1328050794s/6586540.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6586540-uglies</link>
+  <num_pages>448</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Simon Pulse</publisher>
+  <publication_day/>
+  <publication_year>2011</publication_year>
+  <publication_month/>
+  <average_rating>3.86</average_rating>
+  <ratings_count>432920</ratings_count>
+  <description>Tally is about to turn sixteen, and she can't wait. In just a few weeks she'll have the operation that will turn her from a repellent ugly into a stunning pretty. And as a pretty, she'll be catapulted into a high-tech paradise where her only job is to have fun.&lt;br&gt;&lt;br&gt;But Tally's new friend Shay isn't sure she wants to become a pretty. When Shay runs away, Tally learns about a whole new side of the pretty world-- and it isn't very pretty. The authorities offer Tally a choice: find her friend and turn her in, or never turn pretty at all. Tally's choice will change her world forever...</description>
+<authors>
+<author>
+<id>13957</id>
+<name>Scott Westerfeld</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1442207392p5/13957.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1442207392p2/13957.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13957.Scott_Westerfeld]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>1155567</ratings_count>
+<text_reviews_count>67426</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465286461" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon May 16 00:00:00 -0700 2016</read_at>
+  <date_added>Sun Jul 19 15:52:42 -0700 2015</date_added>
+  <date_updated>Thu Nov 03 13:49:43 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1339691457]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1339691457]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1339689398</id>
+    <book>
+  <id type="integer">6571974</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">207</text_reviews_count>
+  <title>Unwind (Unwind, #1)</title>
+  <image_url>https://images.gr-assets.com/books/1404889608m/6571974.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1404889608s/6571974.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6571974-unwind</link>
+  <num_pages>353</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster BFYR</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.19</average_rating>
+  <ratings_count>139952</ratings_count>
+  <description>In a society where unwanted teens are salvaged for their body parts, three runaways fight the system that would "unwind" them.&lt;br&gt;Connor's parents want to be rid of him because he's a troublemaker. Risa has no parents and is being unwound to cut orphanage costs. Lev's unwinding has been planned since his birth, as part of his family's strict religion. Brought together by chance, and kept together by desperation, these three unlikely companions make a harrowing cross-country journey, knowing their lives hang in the balance. If they can survive until their eighteenth birthday, they can't be harmed -- but when every piece of them, from their hands to their hearts, are wanted by a world gone mad, eighteen seems far, far away. &lt;br&gt;In &lt;i&gt;Unwind&lt;/i&gt;, &lt;i&gt;Boston Globe/Horn Book&lt;/i&gt; Award winner Neal Shusterman challenges readers' ideas about life -- not just where life begins, and where it ends, but what it truly means to be alive.</description>
+<authors>
+<author>
+<id>19564</id>
+<name>Neal Shusterman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1246977170p5/19564.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1246977170p2/19564.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/19564.Neal_Shusterman]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>306278</ratings_count>
+<text_reviews_count>33661</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="must-reads" exclusive="false" review_shelf_id="1465282997" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Jun 27 00:00:00 -0700 2015</read_at>
+  <date_added>Sun Jul 19 15:50:03 -0700 2015</date_added>
+  <date_updated>Thu Nov 03 13:45:19 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1339689398]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1339689398]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

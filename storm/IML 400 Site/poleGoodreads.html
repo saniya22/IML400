@@ -1,0 +1,102 @@
+<!DOCTYPE html
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Week 9 | Saniya Pole</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="author" content ="Saniya Pole">
+		<meta name="description" content="Media Arts And Practice | USC">
+		<meta name="revised" content="9/1/2016">
+		<link href="https://fonts.googleapis.com/css?family=Cormorant+Upright|David+Libre|Exo+2:300" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		
+		<!-- The scripts specifc to API meddling -->
+        <link rel="stylesheet" href="css/lib/w3.css">    
+        <script src="js/lib/jquery-3.1.1.min.js"></script>   
+        <script src="js/lib/lodash.js"> </script>
+        <script src="js/lib/w3data.js"></script>
+	</head>
+	<body>
+		<div class="topLeft">
+			<p>Saniya</p>
+			<p>Pole</p>
+		</div>
+		<div class="topRight">
+			<p>IML 400</p>
+		</div>
+		<div class="nav">
+			<ul>
+				<li>
+					<a href="index.html"> Home </a>
+				</li>
+				<li>
+					<a href="about.html">About</a>
+				</li>
+				<li>
+					<a href="assignments.html">Assignments</a>
+				</li>
+			</ul>
+		</div>
+		<div class="section">
+			<div class="assignment">
+				<div class="backButton"><a href="assignments.html" id="listLink">< Back to Assignments</a></div>
+				<br>
+				<h1>Week 10: </h1>
+				<br>
+
+			</div>
+		</div>
+
+
+
+
+
+
+
+		<script type="text/javascript">
+			
+		var url ="https://www.goodreads.com/review/list/45203653.xml?shelf=must-reads&key=fwIiamkJXC8psgVUOFHZaA&v=2";
+
+		var result;
+
+ 		function getMeTheAlbumData( obj ) {
+            //to avoid getting an initial image error
+            var thumbnail = "images/noImg.jpg";
+            //to filter so only objects with images are shown
+            if(_.has (obj, "images") && obj.images.length >0){
+                thumbnail = obj.images[obj.images.length -1].url;
+                
+            } 
+            return {name: obj.name, albumLink: obj.external_urls.spotify, thumbnail: thumbnail};
+        }    
+            
+		$.get(url,param).done(onReceivedData).fail(onFailedData);
+
+            //this only gets called if jQuery gets data back from "Goodreads"
+        
+            function onReceivedData(data) {
+                console.log('got a result')
+                result = data 
+                           
+                //this is the call that goes through all of the result items
+                // and converts it into a list of objects that w3Data can use
+                var w3ObjectList = _.map( result.albums.items, getMeTheAlbumData  )
+                var w3Data = {stuff: w3ObjectList}
+                
+                //Pass it to w3 to display
+                w3DisplayData("result", w3Data);            
+            }
+        
+        
+            //this only gets called if jQuery does NOT get data back from Spotify
+        
+            function onFailedData(err) {
+                console.log('ERROR getting a result');
+                console.log(err);            
+            }
+
+
+
+
+		</script>
+	</body>
